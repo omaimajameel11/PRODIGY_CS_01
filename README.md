@@ -26,4 +26,5 @@ The encryption can be represented using modular arithmetic by first transforming
 -To decrypt the message, simply reverse the process by shifting each letter back by the same amount. For example, if the shift value is 3, the encrypted message “khoor” would become “hello”.
 
 ## Output
-"C:\Users\96650\Pictures\Screenshots\Screenshot 2024-06-02 202421.png"
+![Screenshot 2024-06-02 202421](https://github.com/omaimajameel11/PRODIGY_CS_01/assets/167120544/4414ebef-c869-4469-97df-c2b95f281a7b)
+
